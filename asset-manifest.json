@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abidasobhan19/Rangs-OverDue/static/css/main.e6c13ad2.css",
-    "main.js": "/abidasobhan19/Rangs-OverDue/static/js/main.ac3065d1.js",
-    "static/js/787.d45b3118.chunk.js": "/abidasobhan19/Rangs-OverDue/static/js/787.d45b3118.chunk.js",
-    "index.html": "/abidasobhan19/Rangs-OverDue/index.html",
-    "main.e6c13ad2.css.map": "/abidasobhan19/Rangs-OverDue/static/css/main.e6c13ad2.css.map",
-    "main.ac3065d1.js.map": "/abidasobhan19/Rangs-OverDue/static/js/main.ac3065d1.js.map",
-    "787.d45b3118.chunk.js.map": "/abidasobhan19/Rangs-OverDue/static/js/787.d45b3118.chunk.js.map"
+    "main.css": "/Rangs-OverDue/static/css/main.e6c13ad2.css",
+    "main.js": "/Rangs-OverDue/static/js/main.5990b78c.js",
+    "static/js/787.d45b3118.chunk.js": "/Rangs-OverDue/static/js/787.d45b3118.chunk.js",
+    "index.html": "/Rangs-OverDue/index.html",
+    "main.e6c13ad2.css.map": "/Rangs-OverDue/static/css/main.e6c13ad2.css.map",
+    "main.5990b78c.js.map": "/Rangs-OverDue/static/js/main.5990b78c.js.map",
+    "787.d45b3118.chunk.js.map": "/Rangs-OverDue/static/js/787.d45b3118.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ac3065d1.js"
+    "static/js/main.5990b78c.js"
   ]
 }
