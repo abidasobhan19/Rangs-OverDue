@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abidasobhan19/Rangs-OverDue/static/css/main.e6c13ad2.css",
+    "main.js": "/abidasobhan19/Rangs-OverDue/static/js/main.ac3065d1.js",
+    "static/js/787.d45b3118.chunk.js": "/abidasobhan19/Rangs-OverDue/static/js/787.d45b3118.chunk.js",
+    "index.html": "/abidasobhan19/Rangs-OverDue/index.html",
+    "main.e6c13ad2.css.map": "/abidasobhan19/Rangs-OverDue/static/css/main.e6c13ad2.css.map",
+    "main.ac3065d1.js.map": "/abidasobhan19/Rangs-OverDue/static/js/main.ac3065d1.js.map",
+    "787.d45b3118.chunk.js.map": "/abidasobhan19/Rangs-OverDue/static/js/787.d45b3118.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ac3065d1.js"
+  ]
+}
